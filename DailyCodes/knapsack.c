@@ -42,5 +42,3 @@ int main() {
       printf("%d\n",arr[n][c]);
     return 0;
 }
-
-}
